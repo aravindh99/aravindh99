@@ -17,6 +17,8 @@
 
 ## 🚀 About Me
 
+<div align="center">
+
 ```javascript
 const aravindh = {
     pronouns: "he/him",
@@ -42,6 +44,8 @@ const aravindh = {
     funFact: "I debug with console.log and I'm not ashamed! 🐛"
 };
 ```
+
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="coder gif"/>
@@ -112,6 +116,9 @@ const aravindh = {
 - **Location:** Open to relocation for the right opportunity
 
 ### 💪 What I Bring to the Table:
+
+<div align="center">
+
 ```javascript
 const myValue = {
     technicalSkills: "Modern web development with React & Node.js ecosystem",
@@ -121,6 +128,8 @@ const myValue = {
     passion: "Genuine love for coding and building user-centric applications"
 };
 ```
+
+</div>
 
 ### 📧 Let's Connect!
 **Interested in hiring me?** I'd love to discuss how I can contribute to your team!
@@ -145,6 +154,21 @@ const myValue = {
 - 🤝 Open to freelance projects and collaborations
 - 🎯 Goal: Land my dream job and contribute to meaningful projects
 
+## 💡 Coding Philosophy
+
+<div align="center">
+
+```javascript
+const myApproach = {
+    code: "Clean, readable, and maintainable",
+    learning: "Never stop growing",
+    collaboration: "Better together",
+    problemSolving: "Break it down, build it up"
+};
+```
+
+</div>
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -156,7 +180,8 @@ const myValue = {
 
 </div>
 
-📈 GitHub Activity & Stats
+## 📈 GitHub Activity & Stats
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aravindh99&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
@@ -170,7 +195,7 @@ const myValue = {
 ## 🐍 Watch my commits get eaten by the snake!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aravindh99/aravindh99/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -190,6 +215,7 @@ const myValue = {
 
 ### ⚡ Fun Facts About Me:
 - 🎮 When I'm not coding, you'll find me gaming or exploring new tech
+- ☕ Coffee is my debugging fuel
 - 🚀 I believe in writing clean, efficient code
 - 🌟 Always excited to collaborate on interesting projects
 - 📚 Continuously learning and staying updated with latest tech trends
