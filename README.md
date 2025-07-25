@@ -132,17 +132,6 @@ const myValue = {
   
 </div>
 
-## 💻 Featured Projects
-
-<div align="center">
-  
-  | Project | Tech Stack | Description | Live Demo |
-  |---------|------------|-------------|-----------|
-  | 🌟 **Project Name 1** | React, Node.js, MySQL | Brief description of your best project | [Live](link) • [Code](link) |
-  | 🚀 **Project Name 2** | React, Express, JWT | Another impressive project | [Live](link) • [Code](link) |
-  | 💡 **Project Name 3** | HTML, CSS, JavaScript | Showcase your skills | [Live](link) • [Code](link) |
-  
-</div>
 
 ## 💻 Current Focus
 
@@ -167,10 +156,9 @@ const myValue = {
 
 </div>
 
-## 📈 Coding Activity
-
+📈 GitHub Activity & Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aravindh99&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aravindh99&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ## 💭 Random Developer Quote
@@ -182,7 +170,7 @@ const myValue = {
 ## 🐍 Watch my commits get eaten by the snake!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/aravindh99/aravindh99/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
