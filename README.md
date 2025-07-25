@@ -18,36 +18,6 @@
 ## 🚀 About Me
 
 <div align="center">
-
-```javascript
-const aravindh = {
-    pronouns: "he/him",
-    location: "India 🇮🇳",
-    website: "https://aravn.xyz",
-    status: "🚀 Actively seeking Full Stack Developer opportunities",
-    jobPreferences: {
-        roles: ["Full Stack Developer", "Frontend Developer", "Backend Developer"],
-        workType: ["Remote", "Hybrid", "On-site"],
-        availability: "Immediate",
-        relocation: "Open to discussion"
-    },
-    languages: ["JavaScript", "TypeScript", "C"],
-    technologies: {
-        frontend: ["React.js", "HTML5", "CSS3", "React Router"],
-        backend: ["Node.js", "Express.js"],
-        database: ["MySQL", "Prisma ORM"],
-        authentication: ["JWT Tokens"],
-        tools: ["Git", "VS Code", "Postman"],
-        currentlyLearning: ["Next.js", "MongoDB", "Docker"]
-    },
-    strengths: ["Problem Solving", "Clean Code", "Team Collaboration", "Quick Learner"],
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
-};
-```
-
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="coder gif"/>
 </div>
 
@@ -156,18 +126,6 @@ const myValue = {
 
 ## 💡 Coding Philosophy
 
-<div align="center">
-
-```javascript
-const myApproach = {
-    code: "Clean, readable, and maintainable",
-    learning: "Never stop growing",
-    collaboration: "Better together",
-    problemSolving: "Break it down, build it up"
-};
-```
-
-</div>
 
 ## 🌐 Connect With Me
 
@@ -192,13 +150,7 @@ const myApproach = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-## 🐍 Watch my commits get eaten by the snake!
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
