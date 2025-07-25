@@ -85,21 +85,6 @@
 - **Availability:** Immediate start
 - **Location:** Open to relocation for the right opportunity
 
-### 💪 What I Bring to the Table:
-
-<div align="center">
-
-```javascript
-const myValue = {
-    technicalSkills: "Modern web development with React & Node.js ecosystem",
-    problemSolving: "Strong analytical thinking and debugging abilities",
-    learning: "Quick to adapt and learn new technologies",
-    collaboration: "Team player with good communication skills",
-    passion: "Genuine love for coding and building user-centric applications"
-};
-```
-
-</div>
 
 ### 📧 Let's Connect!
 **Interested in hiring me?** I'd love to discuss how I can contribute to your team!
@@ -124,7 +109,7 @@ const myValue = {
 - 🤝 Open to freelance projects and collaborations
 - 🎯 Goal: Land my dream job and contribute to meaningful projects
 
-## 💡 Coding Philosophy
+
 
 
 ## 🌐 Connect With Me
@@ -138,11 +123,7 @@ const myValue = {
 
 </div>
 
-## 📈 GitHub Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aravindh99&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
 
 ## 💭 Random Developer Quote
 
