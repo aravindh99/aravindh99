@@ -15,12 +15,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
 </div>
 
-## 🚀 About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="coder gif"/>
-</div>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
