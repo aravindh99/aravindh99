@@ -60,11 +60,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aravindh99&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aravindh99&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ## 💼 Looking for Opportunities
 
@@ -142,7 +137,6 @@
 
 ### ⚡ Fun Facts About Me:
 - 🎮 When I'm not coding, you'll find me gaming or exploring new tech
-- ☕ Coffee is my debugging fuel
 - 🚀 I believe in writing clean, efficient code
 - 🌟 Always excited to collaborate on interesting projects
 - 📚 Continuously learning and staying updated with latest tech trends
