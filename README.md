@@ -1,10 +1,14 @@
 # Hi there! 👋 I'm Aravindh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Software+Engineer;Building+Scalable+Systems;React+%7C+Node.js+%7C+Rust" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Senior+Software+Engineer+%F0%9F%9A%80;Architecting+Scalable+Systems+%E2%9A%A1;React+%7C+Node.js+%7C+Rust+%7C+TypeScript;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </div>
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -19,25 +23,36 @@
 
 </div>
 
-## 🔥 GitHub Activity Graph
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🔥 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aravindh99&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aravindh99&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Timeline" alt="GitHub Activity Graph" />
 </div>
 
-## 🌐 Connect With Me
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🌐 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aravn.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aravindh99)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://aravn.xyz)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aravindh99)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aravindh99&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
 
 <div align="center">
-  <b>✨ Keep coding, keep growing! ✨</b>
+  <img src="https://komarev.com/ghpvc/?username=aravindh99&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<div align="center">
+  <b>⚡ Crafting code, shipping features, breaking limits ⚡</b>
