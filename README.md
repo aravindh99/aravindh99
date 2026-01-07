@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Aravindh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Senior+Software+Engineer+%F0%9F%9A%80;Architecting+Scalable+Systems+%E2%9A%A1;React+%7C+Node.js+%7C+Rust+%7C+TypeScript;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Senior+Software+Engineer+%F0%9F%9A%80;Architecting+Scalable+Systems+%E2%9A%A1;" alt="Typing SVG" />
 </div>
 
 <div align="center">
