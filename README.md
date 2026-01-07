@@ -1,14 +1,7 @@
 # Hi there! 👋 I'm Aravindh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express;🚀+Open+to+Job+Opportunities;Building+Digital+Experiences" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  
-  ![](https://img.shields.io/badge/🔍-ACTIVELY_SEEKING_OPPORTUNITIES-brightgreen?style=for-the-badge&logoColor=white)
-  ![](https://img.shields.io/badge/💼-AVAILABLE_FOR_HIRE-blue?style=for-the-badge&logoColor=white)
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Senior+Software+Engineer;React+%7C+Node.js+%7C+Rust;Building+Scalable+Systems;Architect+%26+Mentor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,22 +14,27 @@
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### Database & ORM
+### Database & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Other
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+### Tools & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
 
@@ -60,46 +58,29 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aravindh99&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
-
-## 💼 Looking for Opportunities
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="job search gif"/>
-</div>
-
-### 🎯 What I'm Looking For:
-- **Role:** Full Stack Developer / Frontend Developer / Backend Developer
-- **Experience Level:** Entry to Mid-level positions
-- **Work Type:** Remote, Hybrid, or On-site
-- **Availability:** Immediate start
-- **Location:** Open to relocation for the right opportunity
-
-
-### 📧 Let's Connect!
-**Interested in hiring me?** I'd love to discuss how I can contribute to your team!
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/📧-Hire_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arav.naatchu@gmail.com)
-  [![Resume](https://img.shields.io/badge/📄-Download_Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1QbhZwqWGYq85FrEZIST6UI5wnlYqd-kf/view?usp=drive_link)
-  
-</div>
-
-
-## 💻 Current Focus
+## 💼 Recent Work
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="working gif"/>
 </div>
 
-- 🔭 Building portfolio projects that demonstrate my full-stack capabilities
-- 🌱 Continuously learning and improving my skills in React ecosystem
-- 💼 Actively applying for Full Stack Developer positions
-- 🤝 Open to freelance projects and collaborations
-- 🎯 Goal: Land my dream job and contribute to meaningful projects
+**Senior Software Engineer @ Xtown** (2024 - Present)
+- Led development teams, mentoring on system design and production debugging
+- Architected [VA-ERP](https://va-erp.xtown.in/) - site-centric business management system
+- Built [Prithvi Canteen PWA](https://pscms.prithviinnerwears.com/) - kiosk application
+- Currently building Kiddo Shadow - school management platform with AI workflows
 
+**Freelance @ Noukha Technologies** (2025)
+- Developed [IntuitionX](https://app.intuitionx.ai/) - voice-first AI learning platform for UK market
+- Stack: Next.js, NestJS, Gemini API, MongoDB
 
+## 💻 Current Focus
 
+- 🦀 Learning Rust for systems programming and performance optimization
+- 🏗️ Architecting scalable, production-grade systems
+- 👥 Mentoring developers on clean architecture and best practices
+- ⚡ Performance tuning and microservices design
+- 🤝 Open to interesting projects and collaborations
 
 ## 🌐 Connect With Me
 
@@ -108,19 +89,14 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aravn.xyz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arav.naatchu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aravindh99)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1QbhZwqWGYq85FrEZIST6UI5wnlYqd-kf/view?usp=drive_link)
 
 </div>
-
-
 
 ## 💭 Random Developer Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
-
-
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
@@ -137,9 +113,9 @@
 
 ### ⚡ Fun Facts About Me:
 - 🎮 When I'm not coding, you'll find me gaming or exploring new tech
-- 🚀 I believe in writing clean, efficient code
-- 🌟 Always excited to collaborate on interesting projects
-- 📚 Continuously learning and staying updated with latest tech trends
+- 🚀 I believe in writing clean, efficient, and maintainable code
+- 🌟 Always excited to collaborate on challenging projects
+- 📚 Continuously learning - currently deep diving into Rust and systems programming
 
 <div align="center">
   <b>✨ Keep coding, keep growing! ✨</b>
