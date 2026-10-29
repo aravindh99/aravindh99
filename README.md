@@ -1,14 +1,16 @@
 # Aravindh Subramaniyan
 
-Full-stack engineer. Founder of [Avenra](https://avenra.org), where I'm building **SchoolIQ**, an AI-powered school management platform.
+Full-stack engineer with 5+ years of experience building and shipping production web platforms. Founder of [Avenra](https://avenra.org), a software company building its own products and custom software for clients.
 
 ## Stack
 
-**Languages** &nbsp; JavaScript · TypeScript · Rust · SQL · C
-**Frontend** &nbsp; React · Next.js · Tailwind CSS · PWA · Capacitor · Figma
-**Backend** &nbsp; Node.js · Express · NestJS · Axum · Socket.io · BullMQ · Kafka
-**Data** &nbsp; PostgreSQL · MySQL · MongoDB · SQLite · Redis
-**Cloud & DevOps** &nbsp; GCP · Docker · GitHub Actions · Nginx · Caddy · Linux
+| | |
+|---|---|
+| **Languages** | JavaScript · TypeScript · Rust · SQL · C |
+| **Frontend** | React · Next.js · Tailwind CSS · PWA · Capacitor · Figma |
+| **Backend** | Node.js · Express · NestJS · Axum · Socket.io · BullMQ · Kafka |
+| **Data** | PostgreSQL · MySQL · MongoDB · SQLite · Redis |
+| **Cloud & DevOps** | GCP · Docker · GitHub Actions · Nginx · Caddy · Linux |
 
 ## Connect
 
